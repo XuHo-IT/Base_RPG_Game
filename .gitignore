@@ -1,0 +1,31 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# User settings
+UserSettings/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project files to ignore
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Large/unnecessary artifacts
+Library/
